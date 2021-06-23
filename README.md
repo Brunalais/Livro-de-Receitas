@@ -1,6 +1,7 @@
 # Litro de Receitas:man_cook:
 
-Olá, Bem vindo ao meu livro de receitas:books:
+Olá, Bem vindo ao meu livro de receitas
 
-- Sushi
+- Sushi​ :sushi:
+- Pudim :custard:
 
